@@ -1,0 +1,69 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(https://www.fontspace.com/cursed-timer-ulil-font-f29411);
+  }
+
+body {
+    margin: 0;
+}
+
+.container {
+    background-color:  #1B244A;
+    display: flex;
+    justify-content:space-around;
+    height:385px;
+    width:575px;
+    padding-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto ;
+}
+.home{
+    display: block;
+    margin-left:20px;
+
+}
+.guest{
+
+    margin-left:50px;
+}
+/*.btns{
+    
+}*/
+h3{
+    line-height: 36px;
+    width: 150px;
+ /*left: 85px;
+  top: 68px;*/
+ text-align: center;
+ color:#EEEEEE;
+ font-family: Verdana;
+ font-size: 40px;
+
+}
+
+p{
+    text-align: center;
+    font-family:myFirstFont;
+    font-size: 90px;
+    font-weight: 400;
+    line-height: 127px;
+    color: #F94F6D;
+    font-style: normal;
+    letter-spacing: 0em;
+}
+/*
+
+X: 337px
+Y: 271px
+W: 155px
+H: 45px
+Corner radius: 5px
+X constraint: Left
+Y constraint: Top
+Fill: Solid
+#9AABD8
+Stroke: Solid
+#9AABD8
+Align: Mixed
+Width: (mixed)
+*/
